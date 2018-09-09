@@ -1,5 +1,6 @@
 import React from 'react';
 import './Person.css';
+
 // store variable as a function ..ES6
 const person = ( props ) => {
     return (
